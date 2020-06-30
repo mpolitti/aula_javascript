@@ -1,7 +1,38 @@
+var data = new Date();
+alert(data);
+alert(data.getMonth()+1);
+
+/*
+var count;
+
+for (count = 0; count <= 5; count++) {
+    console.log(count);
+}
+*/
+
+/*
+var count = 0;
+while (count <= 5) {
+  console.log(count);
+  count++;
+}
+*/
+
+/*
+var idade = prompt("Informe sua idade:");
+
+if (idade >= 18) {
+    alert("Maior de idade!");
+} else {
+    alert("Menor de idade!");
+}
+*
+
+/*
 //lista de dicionário
 var frutas = [{nome: "maçã", cor:"vermelha"},{nome: "pêra", cor:"amarela"}];
 console.log(frutas);
-
+*/
 
 /*
 //dicionário
